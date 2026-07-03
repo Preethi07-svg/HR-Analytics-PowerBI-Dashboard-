@@ -62,4 +62,4 @@ This project analyzes employee data to understand attrition trends, workforce di
 - HR_Analytics_Dashboard.pbix
 - HR_Analytics_Dataset.xlsx
 - Dashboard.png
--
+
